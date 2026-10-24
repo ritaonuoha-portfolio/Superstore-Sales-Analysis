@@ -36,7 +36,7 @@ This page provides an overview of the business's sales performance. It is design
 
 **Dashboard Screenshot**
 
-![Executive Sales Overview](https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/executive%20page%20.jpeg))
+![Executive Sales Overview](https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/executive%20page%20.jpeg)
 
 ### 2. Product and Profitability Analysis
 
