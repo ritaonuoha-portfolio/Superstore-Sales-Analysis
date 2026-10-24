@@ -6,7 +6,7 @@ An interactive three-page Power BI dashboard analysing retail sales, product pro
 
 ## Dashboard Preview
 
-![Superstore Dashboard][(PASTE_YOUR_IMAGE_URL_HERE](https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/executive%20page%20.jpeg),(https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/product%20page.jpeg),(https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/regional%20and%20manager%20page.png)
+[Superstore Dashboard](https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/executive%20page%20.jpeg),(https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/product%20page.jpeg),(https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis/blob/main/regional%20and%20manager%20page.png)
 
 ## Dashboard Pages
 
